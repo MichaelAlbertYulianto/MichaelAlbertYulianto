@@ -1,10 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Farzeen+Ali+👨🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Michael+Albert+Yulianto👨🏻‍💻;" />
 </h1>
 
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <br/>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MichaelAlbertYulianto&color=blueviolet)
+</div>
 
 <div align="center">
  
@@ -13,11 +17,13 @@
  </div>
  
 <div align="center"> 
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MichaelAlbertYulianto)
   <a href="mailto:michaelalbertyulianto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mike_ay_/">
-  <img src="https://img.shields.io/badge/Instagram-6C22A6?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
     <!-- <a href="https://www.youtube.com/@MaikiMC" target="_blank">
      <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -38,6 +44,13 @@
 
 <br/>
 <hr/>
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlbertYulianto&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MichaelAlbertYulianto's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=MichaelAlbertYulianto&theme=tokyonight&hide_border=true" alt="MichaelAlbertYulianto's GitHub Stats" />
+<br>
+</br>
+</div>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelAlbertYulianto&theme=react-dark)
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=MichaelAlbertYulianto&theme=darkhub&row=1)
