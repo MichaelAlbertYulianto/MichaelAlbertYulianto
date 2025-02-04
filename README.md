@@ -39,5 +39,5 @@
 <br/>
 <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlbertYulianto&layout=compact&theme=tokyonight)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAlbertYulianto&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlbertYulianto&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MichaelAlbertYulianto's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=MichaelAlbertYulianto&theme=tokyonight&hide_border=true" alt="MichaelAlbertYulianto's GitHub Stats" />
