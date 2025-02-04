@@ -40,3 +40,4 @@
 <hr/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlbertYulianto&layout=compact&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAlbertYulianto&show_icons=true&theme=tokyonight)
