@@ -39,4 +39,4 @@
 <br/>
 <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlbertYulianto&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlbertYulianto&layout=compact&theme=tokyonight)
