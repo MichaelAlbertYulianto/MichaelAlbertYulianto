@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mike_ay_/">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/413/large_2x/instagram-logo-instagram-icon-transparent-free-png.png"/>
+  <img src="https://img.shields.io/badge/Instagram-6C22A6?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
     <!-- <a href="https://www.youtube.com/@MaikiMC" target="_blank">
      <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
