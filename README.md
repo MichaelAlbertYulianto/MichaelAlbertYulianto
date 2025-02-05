@@ -45,7 +45,11 @@
 <br/>
 <hr/>
 <div align="center">
+<a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlbertYulianto&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MichaelAlbertYulianto's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MichaelAlbertYulianto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+</a>
 <br>
 </br>
 </div>
