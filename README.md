@@ -1,60 +1,81 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Michael+Albert+Yulianto👨🏻‍💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;I'm+Michael+Albert+Yulianto👨🏻‍💻" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<br/>
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MichaelAlbertYulianto&color=blueviolet" alt="Profile Views" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MichaelAlbertYulianto&color=blueviolet)
+<div align="center">
+  <p>🌱 I'm Michael Albert Yulianto, a dedicated software developer building sleek web apps with expertise in <strong>React, React Native, Next.js, Node.js, Express, MongoDB</strong> and more.</p>
 </div>
 
 <div align="center">
- 
- 🌱 I'm Michael Albert Yulianto, a passionate software developer, crafting sleek Web Apps with interested in React JS, React Native, Next JS 14, Node JS, Express JS, MongoDb and more.
-
- </div>
- 
-<div align="center"> 
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MichaelAlbertYulianto)
+  <a href="https://github.com/MichaelAlbertYulianto">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
   <a href="mailto:michaelalbertyulianto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/mike_ay_/">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-    <!-- <a href="https://www.youtube.com/@MaikiMC" target="_blank">
-     <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/michael-albert-yulianto-11517024b/" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/michael-albert-yulianto-11517024b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">🚀Languages💥Frameworks💥Tools🚀</h2>
-<br/>
+<hr />
+<h2 align="center"> 🛠 Skill
+</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,mongodb,nextjs,mysql,php,laravel" /><br>
+
+![React](https://img.shields.io/badge/React-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-brightgreen)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Intermediate-06B6D4)
 </div>
 
-<br/>
-<hr/>
-<div align="center">
-<a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlbertYulianto&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MichaelAlbertYulianto's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MichaelAlbertYulianto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-</a>
-<br>
-</br>
+<hr />
+<h2 align="center">🚀 Languages, Frameworks & Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=css,bootstrap,html,mongodb,nextjs,mysql,php,laravel" alt="Skill Icons" />
 </div>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelAlbertYulianto&theme=react-dark)
+<hr />
 
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MichaelAlbertYulianto&theme=darkhub&row=1)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlbertYulianto&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MichaelAlbertYulianto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelAlbertYulianto&theme=tokyonight" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MichaelAlbertYulianto&theme=tokyonight&row=1" alt="Trophies" />
+</div>
+
+<hr />
+<h2 align="center">
+📅 GitHub Activity
+</h2>
+<div align="center">
+
+![GitHub Activity](https://ghchart.rshah.org/3559c0/MichaelAlbertYulianto)
+</div>
+<hr />
+
+<h2 align="center">📫 Connect with Me</h2>
+<p align="center">
+  I'm always excited to collaborate or chat about new projects. Feel free to <a href="mailto:michaelalbertyulianto@gmail.com"><strong>drop me an email</strong></a> or connect on your favorite platform!
+</p>
