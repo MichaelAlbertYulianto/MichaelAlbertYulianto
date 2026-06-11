@@ -3,9 +3,9 @@
 Full Stack Developer focused on building web applications, RESTful APIs, and business systems.
 
 - 🎓 Information Systems Graduate
-- 💼 Former Full Stack Developer Intern at Braincore
+- 💼 Full Stack Developer Intern at Braincore
 - 🤖 Bangkit 2024 Machine Learning Cohort
-- 👨‍🏫 Former Teaching Assistant at UKDW
+- 👨‍🏫 Teaching Assistant at UKDW
 
 ## Tech Stack
 
