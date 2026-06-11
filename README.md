@@ -1,78 +1,72 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Momo+Signature&size=40&duration=2000&pause=1500&color=B80CFB&center=true&vCenter=true&width=800&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Michael+Albert+Yulianto%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Momo+Signature&size=40&duration=2000&pause=1500&color=B80CFB&center=true&vCenter=true&width=800&height=100&lines=Hi+There!+👋;I'm+Michael+Albert+Yulianto+👨🏻‍💻" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MichaelAlbertYulianto&color=blueviolet" alt="Profile Views" />
+  Passionate about building scalable web applications, solving real-world problems, and continuously learning new technologies.
 </p>
 
-<div align="center">
-  <p>🌱 I'm Michael Albert Yulianto, a dedicated software developer building sleek web apps with expertise in <strong>React, React Native, Next.js, Node.js, Express, MongoDB</strong> and more.</p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/MichaelAlbertYulianto">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
-  </a>
+<p align="center">
   <a href="mailto:michaelalbertyulianto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/mike_ay_/">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/michael-albert-yulianto-11517024b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
-<hr />
-<h2 align="center"> 🛠 Skill
-</h2>
-<div align="center">
-
-![React](https://img.shields.io/badge/React-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-brightgreen)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Intermediate-06B6D4)
-</div>
-
-
-<hr />
-<h2 align="center">🚀 Languages, Frameworks & Tools</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" alt="Skill Icons" />
-  <img src="https://skillicons.dev/icons?i=css,bootstrap,html,mongodb,nextjs,mysql,php,laravel" alt="Skill Icons" />
-</div>
-
-<hr />
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlbertYulianto&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MichaelAlbertYulianto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelAlbertYulianto&theme=tokyonight" alt="Contribution Graph" />
-</div>
-
-
-<hr />
-<h2 align="center">
-📅 GitHub Activity
-</h2>
-<div align="center">
-
-![GitHub Activity](https://ghchart.rshah.org/3559c0/MichaelAlbertYulianto)
-</div>
-<hr />
-
-<h2 align="center">📫 Connect with Me</h2>
-<p align="center">
-  I'm always excited to collaborate or chat about new projects. Feel free to <a href="mailto:michaelalbertyulianto@gmail.com"><strong>drop me an email</strong></a> or connect on your favorite platform!
+  <a href="https://github.com/MichaelAlbertYulianto">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Information System Graduate from Universitas Kristen Duta Wacana (GPA 3.78)
+- 💼 Former Full Stack Developer Intern at Braincore
+- 🏆 Bangkit Academy 2024 Machine Learning Cohort
+- 👨‍🏫 Former Teaching Assistant for Database Systems, Database Design, Data Structures & Algorithms, and Fundamental Programming
+- 🌱 Interested in Full Stack Development, Software Engineering, ERP Systems, and Data Analytics
+
+---
+
+## 🛠️ Languages, Frameworks & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,javascript,typescript,mongodb,mysql,php,laravel,tailwind,bootstrap,git,github,vscode" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 Inventory Management System
+ERP-based inventory management system developed using Express.js, MySQL, and RESTful APIs.
+
+### 📊 Inventory Analytics Dashboard
+Interactive dashboard for inventory analysis and business insights through data visualization.
+
+### 🤖 Machine Learning Capstone Project
+Machine learning solution developed during Bangkit Academy 2024.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MichaelAlbertYulianto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **michaelalbertyulianto@gmail.com**
+- 💼 LinkedIn: **linkedin.com/in/michael-albert-yulianto-11517024b**
+- 💻 GitHub: **github.com/MichaelAlbertYulianto**
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
