@@ -2,7 +2,7 @@
 
 Full Stack Developer focused on building web applications, RESTful APIs, and business systems.
 
-- 🎓 Information Systems Graduate (GPA 3.78)
+- 🎓 Information Systems Graduate
 - 💼 Former Full Stack Developer Intern at Braincore
 - 🤖 Bangkit 2024 Machine Learning Cohort
 - 👨‍🏫 Former Teaching Assistant at UKDW
