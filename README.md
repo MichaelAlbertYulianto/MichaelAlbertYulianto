@@ -61,9 +61,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelAlbertYulianto&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MichaelAlbertYulianto&theme=tokyonight&row=1" alt="Trophies" />
-</div>
 
 <hr />
 <h2 align="center">
