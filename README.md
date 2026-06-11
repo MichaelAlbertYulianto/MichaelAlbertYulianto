@@ -9,7 +9,13 @@ Full Stack Developer focused on building web applications, RESTful APIs, and bus
 
 ## Tech Stack
 
-Node.js • Express.js • MySQL • JavaScript • TypeScript • React • Laravel • Git
+Backend: Node.js, Express.js, Laravel
+
+Frontend: React, JavaScript, TypeScript
+
+Database: MySQL
+
+Tools: Git
 
 ## Featured Projects
 
