@@ -76,14 +76,6 @@ Machine learning solution developed during Bangkit Academy 2024, focusing on dat
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelAlbertYulianto&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **michaelalbertyulianto@gmail.com**
